@@ -28,4 +28,4 @@ To meet the acceptance criteria, I did the following:
 -  Input the starter code for project into HTML file
 -  Deployed app using github pages
 
-[Link to deployed application]()
+[Link to deployed application](https://izzie2021.github.io/Weather-Time/)
